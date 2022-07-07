@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.pintu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Meghana">
+        <activity
+            android:name="com.example.pritesh.SignUp"
+            android:exported="false" />
+        <activity
+            android:name="com.example.pritesh.Shared"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.example.pritesh.Rules"
+            android:exported="false" />
+        <activity
+            android:name="com.example.pritesh.Quiz"
+            android:exported="false" />
+        <activity
+            android:name="com.example.pritesh.Question"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.example.pritesh.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

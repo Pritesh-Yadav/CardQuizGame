@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pritesh.iml" filepath="$PROJECT_DIR$/.idea/modules/pritesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pritesh.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pritesh.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pritesh.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pritesh.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pritesh.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pritesh.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pritesh.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pritesh.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/pritesh.myapplication.unitTest.iml" />
+    </modules>
+  </component>
+</project>
